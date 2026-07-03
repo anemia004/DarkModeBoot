@@ -24,5 +24,3 @@ No screen filter, no background service, zero battery drain.
 ## Manual setup (without zip)
 Copy `service.sh` to `/data/adb/service.d/`, set permissions to 755, and reboot.
 
-## How to test on your device
-Before installing, run this command in a root terminal:
