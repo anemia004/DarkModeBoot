@@ -16,7 +16,7 @@ No screen filter, no background service, zero battery drain.
 - Not for stock Samsung/HTC/etc. firmware – requires a custom ROM with OMS or RRO overlay support (or at least the `ui_night_mode` feature).
 
 ## Installation
-1. Download the latest `DarkModeBoot.zip` from the [Releases](https://github.com/YOUR_USERNAME/DarkModeBoot/releases) page.
+1. Download the latest `DarkModeBoot.zip` from the [Releases](https://github.com/anemia004/DarkModeBoot/releases) page.
 2. Open Magisk Manager → Modules → Install from storage → select the zip.
 3. Reboot.
 4. Wait about 20 seconds after boot – your system will turn dark.
