@@ -1,0 +1,6 @@
+id=darkmodeboot
+name=System Dark Mode Enabler
+version=1.0
+versionCode=1
+author=You
+description=Force enable Android dark mode at every boot (uimode)
